@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 import gsap from 'gsap';
-import { House } from "./house";
+import { House } from "./House.js";
 import {GLTFLoader} from "three/addons";
 
 // ----- 주제: 스크롤에 따라 움직이는 3D 페이지
